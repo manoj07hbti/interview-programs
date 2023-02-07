@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class FindStringWithLengthHigherThanFive {
+//TODO find string with length higher than 5
+public class D_3_FindStringWithLengthHigherThanFive {
 
     public static void main(String[] args) {
         List<String> strings = new ArrayList<>();

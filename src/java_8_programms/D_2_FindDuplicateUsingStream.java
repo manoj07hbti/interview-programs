@@ -5,7 +5,8 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class FindDuplicateUsingStream {
+//TODO find duplicate strings using stream SPI
+public class D_2_FindDuplicateUsingStream {
 
     public static void main(String[] args) {
 

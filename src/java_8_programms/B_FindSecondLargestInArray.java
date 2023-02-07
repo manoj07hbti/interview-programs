@@ -2,7 +2,8 @@ package java_8_programms;
 
 import java.util.Arrays;
 
-public class FindSecondLargestInArray {
+//TODO find the second largest in an array using stream API
+public class B_FindSecondLargestInArray {
     public static void main(String[] args) {
         int[] numbers = {1, 2,11,12, 3, 4, 5, 6, 7, 8, 9};
 

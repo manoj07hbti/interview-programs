@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-//TODO 1.	Write a program to sort a list of integers using the Stream API in Java 8.
-public class SortListOfIntegers {
+//TODO .	Write a program to sort a list of integers using the Stream API in Java 8.
+public class C_SortListOfIntegers {
 
     public static void main(String[] args) {
         List<Integer> numbers = new ArrayList<>();//TODO here we have created list object and we will add elements to it

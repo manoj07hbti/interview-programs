@@ -3,9 +3,9 @@ package java_8_programms;
 import java.util.ArrayList;
 import java.util.List;
 
-//TODO 2.	Write a program to find the maximum and minimum elements in a list of integers using the Stream API in Java 8.
+//TODO .	Write a program to find the maximum and minimum elements in a list of integers using the Stream API in Java 8.
 
-public class FindMaximumAndMinimumList {
+public class A_FindMaximumAndMinimumList {
 
     public static void main(String[] args) {
         List<Integer> numbers = new ArrayList<>();//TODO here we have created list object and we will add elements to it

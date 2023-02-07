@@ -5,8 +5,8 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-
-public class SortingOfStringsList {
+//TODO sort string in natural and reverse order
+public class D_4_SortingOfStringsList {
 
     public static void main(String[] args) {
 

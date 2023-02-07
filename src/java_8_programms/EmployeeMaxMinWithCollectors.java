@@ -38,6 +38,20 @@ class EmployeeMaxMinWithCollectors {
 
         System.out.println("Employee with min age:"
                 + (minAgeEmp.isPresent()? minAgeEmp.get():"Not Applicable"));
+
+//TODO count total salary of employee
+
+        Double totalSalary = employeeList.stream()
+                .mapToDouble(Employee::getSalary)
+                .sum();
+        System.out.println("Total salary: " + totalSalary);
+
+//TODO In this example, the mapToDouble method is used to extract the salary field
+// from each Employee object in the employees list and transform it into a stream of
+// double values. The sum method is then used to calculate the total of these values.
+
+
+
     }
 }
 

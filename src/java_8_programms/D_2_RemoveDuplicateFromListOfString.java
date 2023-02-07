@@ -4,7 +4,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class RemoveDuplicateFromListOfString {
+//TODO remove duplicate from String using stream API
+
+public class D_2_RemoveDuplicateFromListOfString {
     public static void main(String[] args) {
 
         List<String> stringList = Arrays.asList("apple", "banana", "cherry", "apple", "banana");
